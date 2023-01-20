@@ -1,3 +1,19 @@
+/**
+*  
+* Solution to course project # 6
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2022/2023
+*
+* @author Victor Koychev
+* @idnumber 3MI0600164
+* @compiler GCC
+*
+* <file with functions>
+*
+*/
+
+
 #include <bitset>
 #include <iostream>
 #include <cmath>
